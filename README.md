@@ -6,7 +6,7 @@ Development of PhysDCAT-AP - A metadata schema for physics derived from DCAT-AP+
 
 ## Documentation Website
 
-[https://@EvaSeidlmayer.github.io/PhysDCAT-AP](https://@EvaSeidlmayer.github.io/PhysDCAT-AP)
+[https://tibhannover.github.io/PhysDCAT-AP](https://tibhannover.github.io/PhysDCAT-AP)
 
 ## Repository Structure
 
